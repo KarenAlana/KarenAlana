@@ -1,4 +1,4 @@
-### Olá, meu nome é Karen Alana 👋
+### Olá 👋 , meu nome é Karen Alana 
 
 ### Tecnologias que eu uso no meu dia a dia:
 
