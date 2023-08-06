@@ -12,5 +12,5 @@
 </div><br/>
 <br/>
 
-!KarenAlana GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenAlana&show_icons=true&theme=dracula&count_private=true)
+![KarenAlana GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenAlana&show_icons=true&theme=dracula&count_private=true)
 
