@@ -10,3 +10,7 @@
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img align="center" alt="mongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div><br/>
+<br/>
+
+!KarenAlana GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenAlana&show_icons=true&theme=dracula&count_private=true)
+
