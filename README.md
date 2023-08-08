@@ -25,4 +25,4 @@
 </div><br/>
 
 ![KarenAlana GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenAlana&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
