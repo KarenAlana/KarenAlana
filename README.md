@@ -26,7 +26,7 @@
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img align="center" alt="mongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="mysql" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-73618F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
 
