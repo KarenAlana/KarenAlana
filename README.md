@@ -5,7 +5,6 @@
 <div style="display: inline_block">
  <p>°💻 Desde criança, sempre me senti conectada com a tecnologia. A curiosidade me impulsionou a explorar e me envolver cada vez mais nesse campo fascinante. Ao longo dos anos, descobri que o ramo tecnológico era o lugar onde eu verdadeiramente me encontrava, e foi assim que me direcionei para a área de desenvolvimento web. </p>
  <p>°📚 Atualmente, estou cursando Ciência da Computação e adquirindo conhecimentos sólidos nessa área. Minhas principais habilidades de programação estão focadas em JavaScript, onde também tenho experiência com frameworks como Express. E tenho trabalhado em projetos acadêmicos onde pude aplicar conceitos de CRUD (Create, Read, Update, Delete). </p>
- <p>°🏊🏻‍♀️ Eu gosto de me dedicar a esportes durante meu tempo livre. Me sinto bem em praticar atividades esportivas como basquete, handebol, natação.  </p>
 </div><br/>
 
 ### Tecnologias que eu uso no meu dia a dia:
